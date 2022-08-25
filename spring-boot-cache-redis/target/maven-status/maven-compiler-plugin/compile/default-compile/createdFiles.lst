@@ -1,0 +1,5 @@
+com\binarycoders\redis\service\impl\HashServiceImpl.class
+com\binarycoders\redis\controller\HashController.class
+com\binarycoders\redis\RedisApplication.class
+com\binarycoders\redis\configuration\RedisConfig.class
+com\binarycoders\redis\service\HashService.class

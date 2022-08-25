@@ -1,0 +1,7 @@
+dev\scott\controller\TaskController.class
+dev\scott\controller\PersonController.class
+dev\scott\model\Person.class
+dev\scott\model\TaskDTO.class
+dev\scott\SpringCachingServiceApplication.class
+dev\scott\service\PersonService.class
+dev\scott\service\TaskFacade.class
